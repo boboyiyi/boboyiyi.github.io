@@ -19,6 +19,10 @@ tags: UE4
 1. GPU -> CPU -> gRPC -> Encoder -> Streaming
 2. GPU -> GPU Encoder -> gPRC -> Encoder -> Streaming
 
+### 方案1
+
+GPU上的BackBuffer获取的一个TArray<FColor> Data;
+
 
 
 ### 概念
@@ -34,8 +38,7 @@ UE4中的RHI指的是Render Hardware Interface
 
 两种解决方案：
 
-### 方案1
-GPU上的BackBuffer获取的一个TArray<FColor> Data;
+
 
 
 ### 方案2
