@@ -10,13 +10,13 @@ avatarDesc: Digital Human
 url: "boboyiyi.github.io"
 
 # 博客是否自动生成目录，false为不生成
-enableToc: true
+enableToc: false
 
 # Comment
 comment:
-    # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
+    # livere: 
     disqus: boboyiyi
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    # uyan:
 
 # Social
 social:
@@ -58,7 +58,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
-    - {title: 技术支持, description: support, url: '/support'}
+    # - {title: 技术支持, description: support, url: '/support'}
     - {title: 关于我, description: about, url: '/about'}
     
 
