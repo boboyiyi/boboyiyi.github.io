@@ -1,16 +1,15 @@
-# Bruce Fan
+## Bruce Fan
 
- **Email**: 546027789@qq.com
+**Email**: 546027789@qq.com
 
- **Github**: [@boboyiyi](https://github.com/boboyiyi)
+**Github**: [@boboyiyi](https://github.com/boboyiyi)
 
 ### Projects
-
  - 
 
 ### Awards
 
-- 
+- 搜狗CEO特别奖(4 / 3000)
 
 ### Experience
 
