@@ -1,6 +1,8 @@
-## Bruce Fan
+## 樊博
 
 **Email**: 546027789@qq.com
+
+**Telephone**: 17600660248
 
 **Github**: [@boboyiyi](https://github.com/boboyiyi)
 
